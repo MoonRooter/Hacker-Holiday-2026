@@ -1,4 +1,4 @@
-# 🎄 Day 00 – Concierge Briefing
+# 🎄 Day 00 – The Brochure
 
 ## 📖 Overview
 
