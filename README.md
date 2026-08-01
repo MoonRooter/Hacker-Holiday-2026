@@ -50,10 +50,10 @@ Each day's folder includes:
 | Day 00 | ✅ Completed |
 | Day 01 | ✅ Completed |
 | Day 02 | ✅ Completed |
-| Day 03 | ⬜ Pending   |
-| Day 04 | ⬜ Pending   |
-| Day 05 | ⬜ Pending   |
-| Day 06 | ⬜ Pending   |
+| Day 03 | ✅ Completed   |
+| Day 04 | ✅ Completed   |
+| Day 05 | ✅ Completed   |
+| Day 06 | ✅ Completed   |
 | Day 07 | ⬜ Pending   |
 | Day 08 | ⬜ Pending   |
 | Day 09 | ⬜ Pending   |
@@ -63,7 +63,7 @@ Each day's folder includes:
 | Day 13 | ⬜ Pending   |
 | Day 14 | ⬜ Pending   |
 
-**Progress:** **3/15** completed (Day 00–Day 14)
+**Progress:** **6/15** completed (Day 00–Day 14)
 
 ## ⚠️ Disclaimer
 
