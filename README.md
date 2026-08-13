@@ -45,23 +45,23 @@ Each day's folder includes:
 
 ## 📅 Progress
 
-| Day    | Status      |
-| ------ | ----------- |
+| Day    | Status       |
+| ------ | ------------ |
 | Day 00 | ✅ Completed |
 | Day 01 | ✅ Completed |
 | Day 02 | ✅ Completed |
-| Day 03 | ✅ Completed   |
-| Day 04 | ✅ Completed   |
-| Day 05 | ✅ Completed   |
-| Day 06 | ✅ Completed   |
-| Day 07 | ⬜ Pending   |
-| Day 08 | ⬜ Pending   |
-| Day 09 | ⬜ Pending   |
-| Day 10 | ⬜ Pending   |
-| Day 11 | ⬜ Pending   |
-| Day 12 | ⬜ Pending   |
-| Day 13 | ⬜ Pending   |
-| Day 14 | ⬜ Pending   |
+| Day 03 | ✅ Completed |
+| Day 04 | ✅ Completed |
+| Day 05 | ✅ Completed |
+| Day 06 | ✅ Completed |
+| Day 07 | ✅ Completed |
+| Day 08 | ✅ Completed |
+| Day 09 | ✅ Completed |
+| Day 10 | ✅ Completed |
+| Day 11 | ✅ Completed |
+| Day 12 | ✅ Completed |
+| Day 13 | ✅ Completed |
+| Day 14 | ✅ Completed |
 
 **Progress:** **6/15** completed (Day 00–Day 14)
 
