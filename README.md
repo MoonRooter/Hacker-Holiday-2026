@@ -63,7 +63,7 @@ Each day's folder includes:
 | Day 13 | ✅ Completed |
 | Day 14 | ✅ Completed |
 
-**Progress:** **6/15** completed (Day 00–Day 14)
+**Progress:** **15/15** completed (Day 00–Day 14)
 
 ## ⚠️ Disclaimer
 
